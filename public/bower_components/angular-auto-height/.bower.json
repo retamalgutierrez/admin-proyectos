@@ -1,0 +1,39 @@
+{
+  "name": "angular-auto-height",
+  "authors": [
+    "Emanuel Imhof <emanuel@twygmbh.ch>"
+  ],
+  "description": "An AngularJS directive to automatically adjust the height of an element corresponding to the parent and siblings.",
+  "main": "dist/auto-height.js",
+  "keywords": [
+    "angular",
+    "js",
+    "twy",
+    "auto",
+    "height",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ],
+  "dependencies": {
+    "angular": "~1.2"
+  },
+  "homepage": "https://github.com/twygmbh/angular-auto-height",
+  "_release": "7541348dca",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "7541348dcaa843fdeb3347a61ee0268acf822218"
+  },
+  "_source": "git://github.com/twygmbh/angular-auto-height.git",
+  "_target": "*",
+  "_originalSource": "twygmbh/angular-auto-height",
+  "_direct": true
+}
